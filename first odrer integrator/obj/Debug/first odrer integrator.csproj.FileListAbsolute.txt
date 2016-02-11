@@ -1,0 +1,18 @@
+E:\acm\Projects\first odrer integrator\first odrer integrator\bin\Debug\first odrer integrator.exe.config
+E:\acm\Projects\first odrer integrator\first odrer integrator\bin\Debug\first odrer integrator.exe
+E:\acm\Projects\first odrer integrator\first odrer integrator\bin\Debug\first odrer integrator.pdb
+E:\acm\Projects\first odrer integrator\first odrer integrator\obj\Debug\first odrer integrator.csprojResolveAssemblyReference.cache
+E:\acm\Projects\first odrer integrator\first odrer integrator\obj\Debug\first_odrer_integrator.Form1.resources
+E:\acm\Projects\first odrer integrator\first odrer integrator\obj\Debug\first_odrer_integrator.Properties.Resources.resources
+E:\acm\Projects\first odrer integrator\first odrer integrator\obj\Debug\first odrer integrator.csproj.GenerateResource.Cache
+E:\acm\Projects\first odrer integrator\first odrer integrator\obj\Debug\first odrer integrator.exe
+E:\acm\Projects\first odrer integrator\first odrer integrator\obj\Debug\first odrer integrator.pdb
+F:\acm\Projects\first odrer integrator\first odrer integrator\bin\Debug\first odrer integrator.exe.config
+F:\acm\Projects\first odrer integrator\first odrer integrator\obj\Debug\first odrer integrator.exe
+F:\acm\Projects\first odrer integrator\first odrer integrator\obj\Debug\first odrer integrator.pdb
+F:\acm\Projects\first odrer integrator\first odrer integrator\bin\Debug\first odrer integrator.exe
+F:\acm\Projects\first odrer integrator\first odrer integrator\bin\Debug\first odrer integrator.pdb
+F:\acm\Projects\first odrer integrator\first odrer integrator\obj\Debug\first odrer integrator.csprojResolveAssemblyReference.cache
+F:\acm\Projects\first odrer integrator\first odrer integrator\obj\Debug\first_odrer_integrator.Form1.resources
+F:\acm\Projects\first odrer integrator\first odrer integrator\obj\Debug\first_odrer_integrator.Properties.Resources.resources
+F:\acm\Projects\first odrer integrator\first odrer integrator\obj\Debug\first odrer integrator.csproj.GenerateResource.Cache
